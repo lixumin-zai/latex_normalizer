@@ -1,0 +1,15 @@
+{
+    "\\geqslant": "\\ge",
+    "\\leqslant": "\\le",
+    "\\leq": "\\le",
+    "\\geq": "\\ge",
+    ">": "\\gt",
+    "<": "\\lt",
+    "≥": "\\ge",
+    "≤": "\\le",
+    "\\degree": "\\circ",
+    "\\overrightarrow": "\\vector",
+    "·": "\\cdot",
+    "⋅": "\\cdot",
+    "–": "-"
+}
